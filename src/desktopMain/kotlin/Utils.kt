@@ -1,0 +1,1 @@
+actual fun openLinkInBrowser(url: String) {}
