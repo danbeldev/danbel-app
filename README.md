@@ -1,4 +1,5 @@
-# [DanBel](https://danbel.ru:30)
+# DanBel App
+### [Website](https://danbel.ru:30)
 
 Compatibility: Web/Desktop
 
