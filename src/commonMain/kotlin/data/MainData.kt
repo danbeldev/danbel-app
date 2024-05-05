@@ -9,7 +9,7 @@ import org.example.danbelapp.generated.resources.college
 import org.jetbrains.compose.resources.DrawableResource
 import org.jetbrains.compose.resources.ExperimentalResourceApi
 
-const val GIT_HUB_PROJECT_URL = "https://github.com/danbeldev/website/tree/main"
+const val GIT_HUB_PROJECT_URL = "https://github.com/danbeldev/danbel-app"
 
 data class BaseData(
     val title: String,
